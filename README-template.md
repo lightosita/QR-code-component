@@ -44,5 +44,7 @@ I also used this to kick start live hosting with netlify
 ## Author
 
 - Frontend Mentor - [@lightosita](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@LightOsita](https://www.twitter.com/LightOsita)
+
+livelink:https://lightosita.github.io/QR-code-component/
 
